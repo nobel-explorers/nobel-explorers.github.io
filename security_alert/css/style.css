@@ -25,9 +25,25 @@ div {
 }
 
 .xl {
-	font-size: 2.5em;
+	font-size: 2em;
 }
 
 .xxl {
 	font-size: 4em;
+}
+
+.hacker-txt {
+	font-family: 'VT323', monospace;
+}
+
+.sans-serif {
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none
+}
+
+a .underline {
+	text-decoration: underline;
 }
